@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MonitoreoArduino">
+  <DataContextMoniker Name="/MonitoreoArduinoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e43c157a-3fd2-4ab5-bae6-dd571157af7c" absoluteBounds="3.25, 2, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MonitoreoArduinoDataContext/RegistroSensores" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43ab5c55-3109-43ce-b9f6-93a0f98c0ea9" absoluteBounds="3.2649999999999997, 2.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

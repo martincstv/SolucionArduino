@@ -1,0 +1,8 @@
+C:\Users\dev79\OneDrive\Escritorio\SolucionArduino\Demonio\bin\Debug\Demonio.exe.config
+C:\Users\dev79\OneDrive\Escritorio\SolucionArduino\Demonio\bin\Debug\Demonio.exe
+C:\Users\dev79\OneDrive\Escritorio\SolucionArduino\Demonio\bin\Debug\Demonio.pdb
+C:\Users\dev79\OneDrive\Escritorio\SolucionArduino\Demonio\obj\Debug\Demonio.csproj.AssemblyReference.cache
+C:\Users\dev79\OneDrive\Escritorio\SolucionArduino\Demonio\obj\Debug\Demonio.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev79\OneDrive\Escritorio\SolucionArduino\Demonio\obj\Debug\Demonio.csproj.CoreCompileInputs.cache
+C:\Users\dev79\OneDrive\Escritorio\SolucionArduino\Demonio\obj\Debug\Demonio.exe
+C:\Users\dev79\OneDrive\Escritorio\SolucionArduino\Demonio\obj\Debug\Demonio.pdb

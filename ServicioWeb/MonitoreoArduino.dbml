@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MonitoreoArduino" Class="MonitoreoArduinoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=.;Initial Catalog=MonitoreoArduino;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="MonitoreoArduinoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.RegistroSensores" Member="RegistroSensores">
+    <Type Name="RegistroSensores">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="fechaRegistro" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="temperatura" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="humedad" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="CO2" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="presionAtmosferica" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
